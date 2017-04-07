@@ -21,9 +21,9 @@ angular.module('myApp', [
     //cài đặt một số tham số test chơi
 	//dùng để đặt các giá trị mặc định
 	// 
-    $scope.pir = "UNKNOW";
-    $scope.temp=69;
-	$scope.stt="UNKNOW";
+    $scope.pir = "UNKNOWN";
+    $scope.temp=0;
+	$scope.stt="UNKNOWN";
 	$scope.sonar=[0,0,0,0,0]
 	$scope.direct=0;
 	$scope.runstt="AUTO";
